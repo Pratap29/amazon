@@ -1,2 +1,0 @@
-pratap reddy
-roman reigns
