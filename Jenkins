@@ -3,11 +3,11 @@ Pipeline{
     agentany{
     stages{
      stage('verify version'){
-        steps{
+        steps {
             sh 'php --version'
         } 
      }
-     stage('hello'){
+     stage('hello') {
         steps {
             sh 'php hello.php'
         } 
